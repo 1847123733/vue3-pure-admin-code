@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 32px;
+        font-family: DIN;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="Ctrl" class="cls-1" transform="matrix(1.059, 0, 0, 1.059, 0, 54.687)">Ctrl</text>
+</svg>

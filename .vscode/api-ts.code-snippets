@@ -1,0 +1,14 @@
+{
+  "api(ts)": {
+    "prefix": "apits",
+    "body": [
+      "import { http } from '@/utils/http';",
+      "import { BasePageResponse } from '@/model/BaseModel';",
+      "export const apiUrl = (data?: object) => {",
+      "  return http.request<BasePageResponse<[]>>('post', '/apiUrl', { data });",
+      "};",
+      ""
+    ],
+    "description": "api(ts)"
+  }
+}

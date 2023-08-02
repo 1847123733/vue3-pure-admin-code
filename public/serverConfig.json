@@ -1,0 +1,23 @@
+{
+  "Version": "3.9.7",
+  "Title": "Orange Chain",
+  "FixedHeader": true,
+  "HiddenSideBar": false,
+  "MultiTagsCache": false,
+  "PageChangeAnimation": false,
+  "KeepAlive": true,
+  "Layout": "vertical",
+  "Theme": "default",
+  "DarkMode": false,
+  "Grey": false,
+  "Weak": false,
+  "HideTabs": false,
+  "SidebarStatus": true,
+  "EpThemeColor": "#ff7800",
+  "ShowLogo": true,
+  "ShowModel": "smart",
+  "MenuArrowIconNoTransition": true,
+  "CachingAsyncRoutes": false,
+  "TooltipEffect": "light",
+  "LostConnectionCode": 9006
+}
